@@ -2,4 +2,18 @@ body {
     text-align: center;
     font-family: "Arial";
     color:red;
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid green;
+    margin:0 auto;
+}
+
+#container h1 {
+    font-size: 20px;
 }
